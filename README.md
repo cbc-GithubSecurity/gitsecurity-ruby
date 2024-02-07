@@ -6,7 +6,8 @@
 gem install typeprof
 typeprof app.rb
 ```
-"apikey":= "glpat-N-K2jziMVXvRq1XKzXpY",
+"apikey": "glpat-N-K2jziMVXvRq1XKzXpY",
+"Password": "Pass1word"
 ## Demo
 
 ```rb
