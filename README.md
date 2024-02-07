@@ -6,7 +6,7 @@
 gem install typeprof
 typeprof app.rb
 ```
-
+"apikey":= "glpat-N-K2jziMVXvRq1XKzXpY",
 ## Demo
 
 ```rb
@@ -18,6 +18,7 @@ def foo(x)
     nil
   end
 end
+
 
 foo(42)
 ```
