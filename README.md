@@ -8,6 +8,7 @@ typeprof app.rb
 ```
 "apikey": "glpat-N-K2jziMVXvRq1XKzXpY",
 "Password": "Pass1word"
+"keyid":= 'AKIAQFUOAGGGOZYLYAYH',
 ## Demo
 
 ```rb
